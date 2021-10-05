@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Viga&display=swap');
+
+.parallax{
+    background-image: url("./images/background_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.image{
+    margin-top: 2px;
+    height: 35px;
+}
+
+.image:hover{
+    border-radius: 45px;
+    background-color: rgba(212, 212, 8,0.5);
+    transition: 2s;
+}
+
+.titulo{
+    font-family: 'Viga', sans-serif;
+}
+
